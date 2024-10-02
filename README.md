@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Te doy la Bienvenida
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: Egresado Tecnico de `Arquitectura de Plataformas y Servicios de TI ` en el [IESTP "Hermanos Carcamo"](https://ieshercar.com/).<br>
+- :school: Egresado Tecnico de `Arquitectura de Plataformas y Servicios de TI ` en el <br>[IESTP "Hermanos Carcamo"](https://ieshercar.com/).<br>
 :computer: Tengo una gran pasión por el desarrollo web, enfocándome en construir aplicaciones dinámicas y optimizadas..<br>
 :technologist: Me encanta utilizar software como solución para cada problema.<br>
 :nerd_face: Siempre estoy aprendiendo cosas nuevas.<br>
