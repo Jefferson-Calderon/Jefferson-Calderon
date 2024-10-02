@@ -9,13 +9,12 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Te doy la Bienvenida
 
 - :school: Egresado Tecnico de `Arquitectura de Plataformas y Servicios de TI ` en el [IESTP "Hermanos Carcamo"](https://ieshercar.com/).<br>
-:trophy: Finalista 2 veces en competencias de desarrollo.<br>
+:computer: Tengo una gran pasión por el desarrollo web, enfocándome en construir aplicaciones dinámicas y optimizadas..<br>
 :technologist: Me encanta utilizar software como solución para cada problema.<br>
-:computer: Soy un programador competitivo en plataformas como Codeforces, Atcoder, Leetcode, Codechef y concursos de Google.<br>
 :student: Actualmente estoy aprendiendo sobre Ciencias de la Computación e Ingeniería de Software.<br>
 :nerd_face: Siempre estoy aprendiendo cosas nuevas.<br>
-:thinking: Estoy abierto a nuevas oportunidades laborales. Aquí puedes ver [MI CURRÍCULUM].<br>
-:boom: Puedes visitar [MI SITIO WEB].<br>
+:email: Mi correo electronico **Atento a cualquier mensaje** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Bryan&amp;color=EA4335&amp;style=flat-square)](mailto:jeffersoncalderonburgos53@gmail.com)
+:boom: Puedes visitar [PORTAFOLIO WEB] y saber más de mi.<br>
 <br>
 
 
