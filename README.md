@@ -8,17 +8,14 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Te doy la Bienvenida
 
-
-<br><br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-:trophy: Finalista 2 veces en competencias de desarrollo.
-:technologist: Me encanta utilizar software como solución para cada problema.
-:computer: Soy un programador competitivo en plataformas como Codeforces, Atcoder, Leetcode, Codechef y concursos de Google.
-:student: Actualmente estoy aprendiendo sobre Ciencias de la Computación e Ingeniería de Software.
-:nerd_face: Siempre estoy aprendiendo cosas nuevas.
-:thinking: Estoy abierto a nuevas oportunidades laborales. Aquí puedes ver [MI CURRÍCULUM].
-:boom: Puedes visitar [MI SITIO WEB].
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).<br>
+:trophy: Finalista 2 veces en competencias de desarrollo.<br>
+:technologist: Me encanta utilizar software como solución para cada problema.<br>
+:computer: Soy un programador competitivo en plataformas como Codeforces, Atcoder, Leetcode, Codechef y concursos de Google.<br>
+:student: Actualmente estoy aprendiendo sobre Ciencias de la Computación e Ingeniería de Software.<br>
+:nerd_face: Siempre estoy aprendiendo cosas nuevas.<br>
+:thinking: Estoy abierto a nuevas oportunidades laborales. Aquí puedes ver [MI CURRÍCULUM].<br>
+:boom: Puedes visitar [MI SITIO WEB].<br>
 <br>
 
 
