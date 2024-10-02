@@ -13,7 +13,7 @@
 :technologist: Me encanta utilizar software como solución para cada problema.<br>
 :student: Actualmente estoy aprendiendo sobre Ciencias de la Computación e Ingeniería de Software.<br>
 :nerd_face: Siempre estoy aprendiendo cosas nuevas.<br>
-:email: Mi correo electronico **Atento a cualquier mensaje** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Bryan&amp;color=EA4335&amp;style=flat-square)](mailto:jeffersoncalderonburgos53@gmail.com)
+:email: Mi correo electronico **Atento a cualquier mensaje** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jefferson&amp;color=13357b&amp;style=flat-square)](mailto:jeffersoncalderonburgos53@gmail.com)
 :boom: Puedes visitar [PORTAFOLIO WEB] y saber más de mi.<br>
 <br>
 
